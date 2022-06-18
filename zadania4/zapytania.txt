@@ -1,0 +1,56 @@
+Część 1 – Wycieczki górskie
+
+1) MATCH sp=shortestPath((darj {name:"Darjeeling"})-[*]->(sand {name:"Sandakphu"}))RETURN sp
+2) MATCH sp=shortestPath((darj {name:"Darjeeling"})-[*]->(sand {name:"Sandakphu"})) WHERE ALL (x IN RELATIONSHIPS(p) WHERE x.winter = "true") RETURN sp
+
+3) 
+MATCH path=(darj {name:"Darjeeling"})-[*]->(sand {name:"Sandakphu"}) 
+WHERE ALL(route in relationships(path) WHERE route.winter = "true") 
+WITH path,reduce(totalDistance = 0, r IN relationships(path) | totalDistance + r.distance) AS totalDistance RETURN path,totalDistance ORDER By totalDistance
+
+4) (daje pusty wynik)
+MATCH path=(darj {name:"Darjeeling"})-[:twowheeler]->(target) 
+WHERE ALL(route in relationships(path) WHERE route.summer = "true") 
+RETURN target
+
+Część 2 – Połączenia lotnicze
+
+5) MATCH (ap:Airport) -[c]- (:Flight) return ap,count(c) ORDER BY count(c)     
+
+
+# do wykonanania przed następnymi punktami
+
+MATCH (fl:Flight) <-[:ASSIGN*]-(tk:Ticket)
+with fl,MIN(tk.price) as cheapest
+SET fl.cheapestSeat = cheapest 
+
+MATCH (fl:Flight) <-[:ASSIGN*]-(tk:Ticket {class: "business"})
+WITH fl,MIN(tk.price) as businessPrice
+SET fl.businessPrice  = businessPrice
+
+MATCH (fl:Flight) <-[:ASSIGN*]-(tk:Ticket {class: "firstClass"})
+WITH fl,MIN(tk.price) as firstClassPrice
+SET fl.firstClassPrice  = firstClassPrice
+
+MATCH (fl:Flight) <-[:ASSIGN*]-(tk:Ticket {class: "economy"})
+WITH fl,MIN(tk.price) as economyPrice
+SET fl.economyPrice  = economyPrice
+
+
+MATCH (a:Airport ) <-[:ORIGIN] -(f:Flight)-[:DESTINATION]->(b:Airport)
+create (a)-[r:FLIGHTEXIST {airline: f.airline,businessPrice: f.businessPrice,cheapestSeat: f.cheapestSeat,economyPrice: f.economyPrice,firstClassPrice: f.firstClassPrice}]->(b)
+
+6) 
+MATCH flights = ((:Airport {name: "LAX"}) -[:FLIGHTEXIST*..4]->(ap:Airport))
+WITH flights, reduce(totalPrice = 0, flight IN relationships(flights) |  totalPrice + flight.cheapestSeat)  as total
+WHERE total < 3000
+Return flights, total
+
+7)
+
+8)
+
+9)
+MATCH (org:Airport)-[fl:FLIGHTEXIST]->(dest:Airport) 
+WITH fl.airline as airlines, org.name + '-'+ dest.name as path
+RETURN airlines,Count(Distinct path)

@@ -1,0 +1,4126 @@
+﻿[
+  {
+    "actors": {
+"identity": 8,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1978,
+"name": "Emil Eifrem"
+      }
+    },
+    "movies": {
+"identity": 0,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    },
+    "movies": {
+"identity": 0,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Laurence Fishburne"
+      }
+    },
+    "movies": {
+"identity": 0,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Carrie-Anne Moss"
+      }
+    },
+    "movies": {
+"identity": 0,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "movies": {
+"identity": 0,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Welcome to the Real World",
+"title": "The Matrix",
+"released": 1999
+      }
+    },
+    "count": 7
+  },
+  {
+    "actors": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    },
+    "movies": {
+"identity": 9,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Laurence Fishburne"
+      }
+    },
+    "movies": {
+"identity": 9,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Carrie-Anne Moss"
+      }
+    },
+    "movies": {
+"identity": 9,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "movies": {
+"identity": 9,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Free your mind",
+"title": "The Matrix Reloaded",
+"released": 2003
+      }
+    },
+    "count": 7
+  },
+  {
+    "actors": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    },
+    "movies": {
+"identity": 10,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Laurence Fishburne"
+      }
+    },
+    "movies": {
+"identity": 10,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Carrie-Anne Moss"
+      }
+    },
+    "movies": {
+"identity": 10,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "movies": {
+"identity": 10,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything that has a beginning has an end",
+"title": "The Matrix Revolutions",
+"released": 2003
+      }
+    },
+    "count": 7
+  },
+  {
+    "actors": {
+"identity": 13,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1940,
+"name": "Al Pacino"
+      }
+    },
+    "movies": {
+"identity": 11,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Evil has its winning ways",
+"title": "The Devil's Advocate",
+"released": 1997
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 12,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1975,
+"name": "Charlize Theron"
+      }
+    },
+    "movies": {
+"identity": 11,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Evil has its winning ways",
+"title": "The Devil's Advocate",
+"released": 1997
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "movies": {
+"identity": 11,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Evil has its winning ways",
+"title": "The Devil's Advocate",
+"released": 1997
+      }
+    },
+    "count": 7
+  },
+  {
+    "actors": {
+"identity": 25,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "James Marshall"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 23,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1957,
+"name": "Kevin Pollak"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 24,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1943,
+"name": "J.T. Walsh"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 28,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Aaron Sorkin"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 22,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Cuba Gooding Jr."
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 4
+  },
+  {
+    "actors": {
+"identity": 26,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1948,
+"name": "Christopher Guest"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 21,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Noah Wyle"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 20,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Kiefer Sutherland"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 19,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1958,
+"name": "Kevin Bacon"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 18,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Demi Moore"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 17,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1937,
+"name": "Jack Nicholson"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 16,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Tom Cruise"
+      }
+    },
+    "movies": {
+"identity": 15,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+"title": "A Few Good Men",
+"released": 1992
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 31,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1959,
+"name": "Val Kilmer"
+      }
+    },
+    "movies": {
+"identity": 29,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I feel the need, the need for speed.",
+"title": "Top Gun",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Meg Ryan"
+      }
+    },
+    "movies": {
+"identity": 29,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I feel the need, the need for speed.",
+"title": "Top Gun",
+"released": 1986
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 33,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1933,
+"name": "Tom Skerritt"
+      }
+    },
+    "movies": {
+"identity": 29,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I feel the need, the need for speed.",
+"title": "Top Gun",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 30,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1957,
+"name": "Kelly McGillis"
+      }
+    },
+    "movies": {
+"identity": 29,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I feel the need, the need for speed.",
+"title": "Top Gun",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 16,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Tom Cruise"
+      }
+    },
+    "movies": {
+"identity": 29,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I feel the need, the need for speed.",
+"title": "Top Gun",
+"released": 1986
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 32,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Anthony Edwards"
+      }
+    },
+    "movies": {
+"identity": 29,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I feel the need, the need for speed.",
+"title": "Top Gun",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 40,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1974,
+"name": "Jerry O'Connell"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 42,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Bonnie Hunt"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 41,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Jay Mohr"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 22,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Cuba Gooding Jr."
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 4
+  },
+  {
+    "actors": {
+"identity": 44,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1996,
+"name": "Jonathan Lipnicki"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 38,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1969,
+"name": "Renee Zellweger"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 39,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Kelly Preston"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 43,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Regina King"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 16,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Tom Cruise"
+      }
+    },
+    "movies": {
+"identity": 37,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The rest of his life begins now.",
+"title": "Jerry Maguire",
+"released": 2000
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 40,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1974,
+"name": "Jerry O'Connell"
+      }
+    },
+    "movies": {
+"identity": 46,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+"title": "Stand By Me",
+"released": 1986
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 47,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "River Phoenix"
+      }
+    },
+    "movies": {
+"identity": 46,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+"title": "Stand By Me",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 51,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1942,
+"name": "Marshall Bell"
+      }
+    },
+    "movies": {
+"identity": 46,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+"title": "Stand By Me",
+"released": 1986
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 49,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1972,
+"name": "Wil Wheaton"
+      }
+    },
+    "movies": {
+"identity": 46,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+"title": "Stand By Me",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 20,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Kiefer Sutherland"
+      }
+    },
+    "movies": {
+"identity": 46,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+"title": "Stand By Me",
+"released": 1986
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 50,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "John Cusack"
+      }
+    },
+    "movies": {
+"identity": 46,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+"title": "Stand By Me",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 48,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Corey Feldman"
+      }
+    },
+    "movies": {
+"identity": 46,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+"title": "Stand By Me",
+"released": 1986
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 53,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Helen Hunt"
+      }
+    },
+    "movies": {
+"identity": 52,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A comedy from the heart that goes for the throat.",
+"title": "As Good as It Gets",
+"released": 1997
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 17,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1937,
+"name": "Jack Nicholson"
+      }
+    },
+    "movies": {
+"identity": 52,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A comedy from the heart that goes for the throat.",
+"title": "As Good as It Gets",
+"released": 1997
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 22,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Cuba Gooding Jr."
+      }
+    },
+    "movies": {
+"identity": 52,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A comedy from the heart that goes for the throat.",
+"title": "As Good as It Gets",
+"released": 1997
+      }
+    },
+    "count": 4
+  },
+  {
+    "actors": {
+"identity": 54,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Greg Kinnear"
+      }
+    },
+    "movies": {
+"identity": 52,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A comedy from the heart that goes for the throat.",
+"title": "As Good as It Gets",
+"released": 1997
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 60,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1951,
+"name": "Robin Williams"
+      }
+    },
+    "movies": {
+"identity": 56,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "After life there is more. The end is just the beginning.",
+"title": "What Dreams May Come",
+"released": 1998
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 22,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Cuba Gooding Jr."
+      }
+    },
+    "movies": {
+"identity": 56,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "After life there is more. The end is just the beginning.",
+"title": "What Dreams May Come",
+"released": 1998
+      }
+    },
+    "count": 4
+  },
+  {
+    "actors": {
+"identity": 58,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1929,
+"name": "Max von Sydow"
+      }
+    },
+    "movies": {
+"identity": 56,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "After life there is more. The end is just the beginning.",
+"title": "What Dreams May Come",
+"released": 1998
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 59,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1942,
+"name": "Werner Herzog"
+      }
+    },
+    "movies": {
+"identity": 56,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "After life there is more. The end is just the beginning.",
+"title": "What Dreams May Come",
+"released": 1998
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 57,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Annabella Sciorra"
+      }
+    },
+    "movies": {
+"identity": 56,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "After life there is more. The end is just the beginning.",
+"title": "What Dreams May Come",
+"released": 1998
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 63,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Ethan Hawke"
+      }
+    },
+    "movies": {
+"identity": 62,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "First loves last. Forever.",
+"title": "Snow Falling on Cedars",
+"released": 1999
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 64,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Rick Yune"
+      }
+    },
+    "movies": {
+"identity": 62,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "First loves last. Forever.",
+"title": "Snow Falling on Cedars",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 58,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1929,
+"name": "Max von Sydow"
+      }
+    },
+    "movies": {
+"identity": 62,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "First loves last. Forever.",
+"title": "Snow Falling on Cedars",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 65,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1940,
+"name": "James Cromwell"
+      }
+    },
+    "movies": {
+"identity": 62,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "First loves last. Forever.",
+"title": "Snow Falling on Cedars",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 67,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At odds in life... in love on-line.",
+"title": "You've Got Mail",
+"released": 1998
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 68,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Parker Posey"
+      }
+    },
+    "movies": {
+"identity": 67,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At odds in life... in love on-line.",
+"title": "You've Got Mail",
+"released": 1998
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 54,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Greg Kinnear"
+      }
+    },
+    "movies": {
+"identity": 67,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At odds in life... in love on-line.",
+"title": "You've Got Mail",
+"released": 1998
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Meg Ryan"
+      }
+    },
+    "movies": {
+"identity": 67,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At odds in life... in love on-line.",
+"title": "You've Got Mail",
+"released": 1998
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 70,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Steve Zahn"
+      }
+    },
+    "movies": {
+"identity": 67,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At odds in life... in love on-line.",
+"title": "You've Got Mail",
+"released": 1998
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 69,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1973,
+"name": "Dave Chappelle"
+      }
+    },
+    "movies": {
+"identity": 67,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At odds in life... in love on-line.",
+"title": "You've Got Mail",
+"released": 1998
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Meg Ryan"
+      }
+    },
+    "movies": {
+"identity": 73,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+"title": "Sleepless in Seattle",
+"released": 1993
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 76,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1949,
+"name": "Victor Garber"
+      }
+    },
+    "movies": {
+"identity": 73,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+"title": "Sleepless in Seattle",
+"released": 1993
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 73,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+"title": "Sleepless in Seattle",
+"released": 1993
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 75,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1953,
+"name": "Bill Pullman"
+      }
+    },
+    "movies": {
+"identity": 73,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+"title": "Sleepless in Seattle",
+"released": 1993
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 74,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Rita Wilson"
+      }
+    },
+    "movies": {
+"identity": 73,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+"title": "Sleepless in Seattle",
+"released": 1993
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 77,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Rosie O'Donnell"
+      }
+    },
+    "movies": {
+"identity": 73,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+"title": "Sleepless in Seattle",
+"released": 1993
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 78,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A story of love, lava and burning desire.",
+"title": "Joe Versus the Volcano",
+"released": 1990
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 80,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Nathan Lane"
+      }
+    },
+    "movies": {
+"identity": 78,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A story of love, lava and burning desire.",
+"title": "Joe Versus the Volcano",
+"released": 1990
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Meg Ryan"
+      }
+    },
+    "movies": {
+"identity": 78,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A story of love, lava and burning desire.",
+"title": "Joe Versus the Volcano",
+"released": 1990
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 83,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Carrie Fisher"
+      }
+    },
+    "movies": {
+"identity": 81,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Can two friends sleep together and still love each other in the morning?",
+"title": "When Harry Met Sally",
+"released": 1998
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 82,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1948,
+"name": "Billy Crystal"
+      }
+    },
+    "movies": {
+"identity": 81,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Can two friends sleep together and still love each other in the morning?",
+"title": "When Harry Met Sally",
+"released": 1998
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 84,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1949,
+"name": "Bruno Kirby"
+      }
+    },
+    "movies": {
+"identity": 81,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Can two friends sleep together and still love each other in the morning?",
+"title": "When Harry Met Sally",
+"released": 1998
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Meg Ryan"
+      }
+    },
+    "movies": {
+"identity": 81,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Can two friends sleep together and still love each other in the morning?",
+"title": "When Harry Met Sally",
+"released": 1998
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 85,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In every life there comes a time when that thing you dream becomes that thing you do",
+"title": "That Thing You Do",
+"released": 1996
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 86,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1977,
+"name": "Liv Tyler"
+      }
+    },
+    "movies": {
+"identity": 85,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In every life there comes a time when that thing you dream becomes that thing you do",
+"title": "That Thing You Do",
+"released": 1996
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 12,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1975,
+"name": "Charlize Theron"
+      }
+    },
+    "movies": {
+"identity": 85,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "In every life there comes a time when that thing you dream becomes that thing you do",
+"title": "That Thing You Do",
+"released": 1996
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 88,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Brooke Langton"
+      }
+    },
+    "movies": {
+"identity": 87,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Pain heals, Chicks dig scars... Glory lasts forever",
+"title": "The Replacements",
+"released": 2000
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "movies": {
+"identity": 87,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Pain heals, Chicks dig scars... Glory lasts forever",
+"title": "The Replacements",
+"released": 2000
+      }
+    },
+    "count": 7
+  },
+  {
+    "actors": {
+"identity": 90,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Orlando Jones"
+      }
+    },
+    "movies": {
+"identity": 87,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Pain heals, Chicks dig scars... Glory lasts forever",
+"title": "The Replacements",
+"released": 2000
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 89,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Gene Hackman"
+      }
+    },
+    "movies": {
+"identity": 87,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Pain heals, Chicks dig scars... Glory lasts forever",
+"title": "The Replacements",
+"released": 2000
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 94,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1954,
+"name": "Zach Grenier"
+      }
+    },
+    "movies": {
+"identity": 92,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Based on the extraordinary true story of one man's fight for freedom",
+"title": "RescueDawn",
+"released": 2006
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 70,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Steve Zahn"
+      }
+    },
+    "movies": {
+"identity": 92,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Based on the extraordinary true story of one man's fight for freedom",
+"title": "RescueDawn",
+"released": 2006
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 93,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1974,
+"name": "Christian Bale"
+      }
+    },
+    "movies": {
+"identity": 92,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Based on the extraordinary true story of one man's fight for freedom",
+"title": "RescueDawn",
+"released": 2006
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 51,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1942,
+"name": "Marshall Bell"
+      }
+    },
+    "movies": {
+"identity": 92,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Based on the extraordinary true story of one man's fight for freedom",
+"title": "RescueDawn",
+"released": 2006
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 60,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1951,
+"name": "Robin Williams"
+      }
+    },
+    "movies": {
+"identity": 95,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Come as you are",
+"title": "The Birdcage",
+"released": 1996
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 80,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Nathan Lane"
+      }
+    },
+    "movies": {
+"identity": 95,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Come as you are",
+"title": "The Birdcage",
+"released": 1996
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 89,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Gene Hackman"
+      }
+    },
+    "movies": {
+"identity": 95,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Come as you are",
+"title": "The Birdcage",
+"released": 1996
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 99,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Clint Eastwood"
+      }
+    },
+    "movies": {
+"identity": 97,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "It's a hell of a thing, killing a man",
+"title": "Unforgiven",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 89,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Gene Hackman"
+      }
+    },
+    "movies": {
+"identity": 97,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "It's a hell of a thing, killing a man",
+"title": "Unforgiven",
+"released": 1992
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 98,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1930,
+"name": "Richard Harris"
+      }
+    },
+    "movies": {
+"identity": 97,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "It's a hell of a thing, killing a man",
+"title": "Unforgiven",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 103,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1958,
+"name": "Ice-T"
+      }
+    },
+    "movies": {
+"identity": 100,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The hottest data on earth. In the coolest head in town",
+"title": "Johnny Mnemonic",
+"released": 1995
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 102,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Dina Meyer"
+      }
+    },
+    "movies": {
+"identity": 100,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The hottest data on earth. In the coolest head in town",
+"title": "Johnny Mnemonic",
+"released": 1995
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "movies": {
+"identity": 100,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The hottest data on earth. In the coolest head in town",
+"title": "Johnny Mnemonic",
+"released": 1995
+      }
+    },
+    "count": 7
+  },
+  {
+    "actors": {
+"identity": 101,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1947,
+"name": "Takeshi Kitano"
+      }
+    },
+    "movies": {
+"identity": 100,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "The hottest data on earth. In the coolest head in town",
+"title": "Johnny Mnemonic",
+"released": 1995
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 105,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 107,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1949,
+"name": "Jim Broadbent"
+      }
+    },
+    "movies": {
+"identity": 105,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 106,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Halle Berry"
+      }
+    },
+    "movies": {
+"identity": 105,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    },
+    "movies": {
+"identity": 105,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Everything is connected",
+"title": "Cloud Atlas",
+"released": 2012
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 111,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Break The Codes",
+"title": "The Da Vinci Code",
+"released": 2006
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 112,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1939,
+"name": "Ian McKellen"
+      }
+    },
+    "movies": {
+"identity": 111,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Break The Codes",
+"title": "The Da Vinci Code",
+"released": 2006
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 113,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1976,
+"name": "Audrey Tautou"
+      }
+    },
+    "movies": {
+"identity": 111,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Break The Codes",
+"title": "The Da Vinci Code",
+"released": 2006
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 114,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Paul Bettany"
+      }
+    },
+    "movies": {
+"identity": 111,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Break The Codes",
+"title": "The Da Vinci Code",
+"released": 2006
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 119,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1940,
+"name": "John Hurt"
+      }
+    },
+    "movies": {
+"identity": 116,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 118,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Stephen Rea"
+      }
+    },
+    "movies": {
+"identity": 116,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 117,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1981,
+"name": "Natalie Portman"
+      }
+    },
+    "movies": {
+"identity": 116,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    },
+    "movies": {
+"identity": 116,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 120,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Ben Miles"
+      }
+    },
+    "movies": {
+"identity": 116,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Freedom! Forever!",
+"title": "V for Vendetta",
+"released": 2006
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 122,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1985,
+"name": "Emile Hirsch"
+      }
+    },
+    "movies": {
+"identity": 121,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Speed has no limits",
+"title": "Speed Racer",
+"released": 2008
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 127,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Rain"
+      }
+    },
+    "movies": {
+"identity": 121,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Speed has no limits",
+"title": "Speed Racer",
+"released": 2008
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 126,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1980,
+"name": "Christina Ricci"
+      }
+    },
+    "movies": {
+"identity": 121,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Speed has no limits",
+"title": "Speed Racer",
+"released": 2008
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 120,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Ben Miles"
+      }
+    },
+    "movies": {
+"identity": 121,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Speed has no limits",
+"title": "Speed Racer",
+"released": 2008
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 124,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Susan Sarandon"
+      }
+    },
+    "movies": {
+"identity": 121,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Speed has no limits",
+"title": "Speed Racer",
+"released": 2008
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 123,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "John Goodman"
+      }
+    },
+    "movies": {
+"identity": 121,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Speed has no limits",
+"title": "Speed Racer",
+"released": 2008
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 125,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Matthew Fox"
+      }
+    },
+    "movies": {
+"identity": 121,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Speed has no limits",
+"title": "Speed Racer",
+"released": 2008
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 127,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Rain"
+      }
+    },
+    "movies": {
+"identity": 128,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Prepare to enter a secret world of assassins",
+"title": "Ninja Assassin",
+"released": 2009
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 120,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Ben Miles"
+      }
+    },
+    "movies": {
+"identity": 128,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Prepare to enter a secret world of assassins",
+"title": "Ninja Assassin",
+"released": 2009
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 64,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Rick Yune"
+      }
+    },
+    "movies": {
+"identity": 128,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Prepare to enter a secret world of assassins",
+"title": "Ninja Assassin",
+"released": 2009
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 129,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Naomie Harris"
+      }
+    },
+    "movies": {
+"identity": 128,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Prepare to enter a secret world of assassins",
+"title": "Ninja Assassin",
+"released": 2009
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 133,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Sam Rockwell"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 42,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Bonnie Hunt"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 135,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1959,
+"name": "Patricia Clarkson"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 65,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1940,
+"name": "James Cromwell"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 131,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1957,
+"name": "Michael Clarke Duncan"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 132,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1953,
+"name": "David Morse"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 134,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1955,
+"name": "Gary Sinise"
+      }
+    },
+    "movies": {
+"identity": 130,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Walk a mile you'll never forget.",
+"title": "The Green Mile",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 133,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1968,
+"name": "Sam Rockwell"
+      }
+    },
+    "movies": {
+"identity": 137,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "400 million people were waiting for the truth.",
+"title": "Frost/Nixon",
+"released": 2008
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 139,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1969,
+"name": "Michael Sheen"
+      }
+    },
+    "movies": {
+"identity": 137,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "400 million people were waiting for the truth.",
+"title": "Frost/Nixon",
+"released": 2008
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 138,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1938,
+"name": "Frank Langella"
+      }
+    },
+    "movies": {
+"identity": 137,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "400 million people were waiting for the truth.",
+"title": "Frost/Nixon",
+"released": 2008
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 140,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Oliver Platt"
+      }
+    },
+    "movies": {
+"identity": 137,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "400 million people were waiting for the truth.",
+"title": "Frost/Nixon",
+"released": 2008
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 19,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1958,
+"name": "Kevin Bacon"
+      }
+    },
+    "movies": {
+"identity": 137,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "400 million people were waiting for the truth.",
+"title": "Frost/Nixon",
+"released": 2008
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 143,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "John C. Reilly"
+      }
+    },
+    "movies": {
+"identity": 141,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "He didn't want law. He wanted justice.",
+"title": "Hoffa",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 142,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1944,
+"name": "Danny DeVito"
+      }
+    },
+    "movies": {
+"identity": 141,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "He didn't want law. He wanted justice.",
+"title": "Hoffa",
+"released": 1992
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 24,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1943,
+"name": "J.T. Walsh"
+      }
+    },
+    "movies": {
+"identity": 141,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "He didn't want law. He wanted justice.",
+"title": "Hoffa",
+"released": 1992
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 17,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1937,
+"name": "Jack Nicholson"
+      }
+    },
+    "movies": {
+"identity": 141,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "He didn't want law. He wanted justice.",
+"title": "Hoffa",
+"released": 1992
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 144,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Houston, we have a problem.",
+"title": "Apollo 13",
+"released": 1995
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 145,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1950,
+"name": "Ed Harris"
+      }
+    },
+    "movies": {
+"identity": 144,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Houston, we have a problem.",
+"title": "Apollo 13",
+"released": 1995
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 134,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1955,
+"name": "Gary Sinise"
+      }
+    },
+    "movies": {
+"identity": 144,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Houston, we have a problem.",
+"title": "Apollo 13",
+"released": 1995
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 19,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1958,
+"name": "Kevin Bacon"
+      }
+    },
+    "movies": {
+"identity": 144,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Houston, we have a problem.",
+"title": "Apollo 13",
+"released": 1995
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 146,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1955,
+"name": "Bill Paxton"
+      }
+    },
+    "movies": {
+"identity": 144,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Houston, we have a problem.",
+"title": "Apollo 13",
+"released": 1995
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 53,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Helen Hunt"
+      }
+    },
+    "movies": {
+"identity": 147,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't Breathe. Don't Look Back.",
+"title": "Twister",
+"released": 1996
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 146,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1955,
+"name": "Bill Paxton"
+      }
+    },
+    "movies": {
+"identity": 147,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't Breathe. Don't Look Back.",
+"title": "Twister",
+"released": 1996
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 148,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Philip Seymour Hoffman"
+      }
+    },
+    "movies": {
+"identity": 147,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't Breathe. Don't Look Back.",
+"title": "Twister",
+"released": 1996
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 94,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1954,
+"name": "Zach Grenier"
+      }
+    },
+    "movies": {
+"identity": 147,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't Breathe. Don't Look Back.",
+"title": "Twister",
+"released": 1996
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 53,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Helen Hunt"
+      }
+    },
+    "movies": {
+"identity": 150,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At the edge of the world, his journey begins.",
+"title": "Cast Away",
+"released": 2000
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 150,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "At the edge of the world, his journey begins.",
+"title": "Cast Away",
+"released": 2000
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 142,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1944,
+"name": "Danny DeVito"
+      }
+    },
+    "movies": {
+"identity": 152,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "If he's crazy, what does that make you?",
+"title": "One Flew Over the Cuckoo's Nest",
+"released": 1975
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 17,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1937,
+"name": "Jack Nicholson"
+      }
+    },
+    "movies": {
+"identity": 152,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "If he's crazy, what does that make you?",
+"title": "One Flew Over the Cuckoo's Nest",
+"released": 1975
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "movies": {
+"identity": 154,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"title": "Something's Gotta Give",
+"released": 2003
+      }
+    },
+    "count": 7
+  },
+  {
+    "actors": {
+"identity": 155,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Diane Keaton"
+      }
+    },
+    "movies": {
+"identity": 154,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"title": "Something's Gotta Give",
+"released": 2003
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 17,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1937,
+"name": "Jack Nicholson"
+      }
+    },
+    "movies": {
+"identity": 154,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"title": "Something's Gotta Give",
+"released": 2003
+      }
+    },
+    "count": 5
+  },
+  {
+    "actors": {
+"identity": 60,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1951,
+"name": "Robin Williams"
+      }
+    },
+    "movies": {
+"identity": 157,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "One robot's 200 year journey to become an ordinary man.",
+"title": "Bicentennial Man",
+"released": 1999
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 140,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Oliver Platt"
+      }
+    },
+    "movies": {
+"identity": 157,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "One robot's 200 year journey to become an ordinary man.",
+"title": "Bicentennial Man",
+"released": 1999
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 160,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Julia Roberts"
+      }
+    },
+    "movies": {
+"identity": 159,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.",
+"title": "Charlie Wilson's War",
+"released": 2007
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 159,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.",
+"title": "Charlie Wilson's War",
+"released": 2007
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 148,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Philip Seymour Hoffman"
+      }
+    },
+    "movies": {
+"identity": 159,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.",
+"title": "Charlie Wilson's War",
+"released": 2007
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 161,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "This Holiday Season... Believe",
+"title": "The Polar Express",
+"released": 2004
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Tom Hanks"
+      }
+    },
+    "movies": {
+"identity": 162,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Once in a lifetime you get a chance to do something different.",
+"title": "A League of Their Own",
+"released": 1992
+      }
+    },
+    "count": 12
+  },
+  {
+    "actors": {
+"identity": 163,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1954,
+"name": "Madonna"
+      }
+    },
+    "movies": {
+"identity": 162,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Once in a lifetime you get a chance to do something different.",
+"title": "A League of Their Own",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 77,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1962,
+"name": "Rosie O'Donnell"
+      }
+    },
+    "movies": {
+"identity": 162,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Once in a lifetime you get a chance to do something different.",
+"title": "A League of Their Own",
+"released": 1992
+      }
+    },
+    "count": 2
+  },
+  {
+    "actors": {
+"identity": 164,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1956,
+"name": "Geena Davis"
+      }
+    },
+    "movies": {
+"identity": 162,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Once in a lifetime you get a chance to do something different.",
+"title": "A League of Their Own",
+"released": 1992
+      }
+    },
+    "count": 1
+  },
+  {
+    "actors": {
+"identity": 146,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1955,
+"name": "Bill Paxton"
+      }
+    },
+    "movies": {
+"identity": 162,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Once in a lifetime you get a chance to do something different.",
+"title": "A League of Their Own",
+"released": 1992
+      }
+    },
+    "count": 3
+  },
+  {
+    "actors": {
+"identity": 165,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1963,
+"name": "Lori Petty"
+      }
+    },
+    "movies": {
+"identity": 162,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Once in a lifetime you get a chance to do something different.",
+"title": "A League of Their Own",
+"released": 1992
+      }
+    },
+    "count": 1
+  }
+]

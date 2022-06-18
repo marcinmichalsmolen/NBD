@@ -1,0 +1,138 @@
+Current Mongosh Log ID:	62510c64c80ae881f3cf6d28
+Connecting to:		mongodb://127.0.0.1:27017/nbd?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.3.1
+Using MongoDB:		5.0.6
+Using Mongosh:		1.3.1
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+------
+   The server generated these startup warnings when booting:
+   2022-04-09T06:13:09.519+02:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2022-04-09T06:13:10.631+02:00: Access control is not enabled for the database. Read and write access to data and configuration is unrestricted
+   2022-04-09T06:13:10.631+02:00: /sys/kernel/mm/transparent_hugepage/enabled is 'always'. We suggest setting it to 'never'
+------
+
+Loading file: zapytanie_4_A.js
+[
+  {
+    _id: 'Finland',
+    min_bmi: 18.313044445355136,
+    avg_bmi: 25.62844713976524,
+    max_bmi: 36.88879211052598
+  },
+  {
+    _id: 'Bosnia and Herzegovina',
+    min_bmi: 16.930664311421882,
+    avg_bmi: 25.418629730315732,
+    max_bmi: 35.973950079941275
+  },
+  {
+    _id: 'Puerto Rico',
+    min_bmi: 22.62480717834322,
+    avg_bmi: 25.262349688052417,
+    max_bmi: 27.283415282531926
+  },
+  {
+    _id: 'Sierra Leone',
+    min_bmi: 19.498876420531634,
+    avg_bmi: 25.11304222749876,
+    max_bmi: 33.44826945468169
+  },
+  {
+    _id: 'Ukraine',
+    min_bmi: 16.525546999186048,
+    avg_bmi: 25.166161518962085,
+    max_bmi: 36.84222756372364
+  },
+  {
+    _id: 'Costa Rica',
+    min_bmi: 20.494010942211922,
+    avg_bmi: 24.650437337200202,
+    max_bmi: 28.89856961379233
+  },
+  {
+    _id: 'Micronesia',
+    min_bmi: 20.48358314807701,
+    avg_bmi: 23.307344877130706,
+    max_bmi: 25.248866566177664
+  },
+  {
+    _id: 'Czech Republic',
+    min_bmi: 15.66830435878055,
+    avg_bmi: 25.214789307335707,
+    max_bmi: 33.1519013359832
+  },
+  {
+    _id: 'Togo',
+    min_bmi: 21.483089176370907,
+    avg_bmi: 23.268539811569156,
+    max_bmi: 24.55999969363162
+  },
+  {
+    _id: 'Zimbabwe',
+    min_bmi: 22.609825375832816,
+    avg_bmi: 26.97591880240733,
+    max_bmi: 35.12027773402992
+  },
+  {
+    _id: 'North Korea',
+    min_bmi: 20.924212172010193,
+    avg_bmi: 26.205146023322584,
+    max_bmi: 30.61429036407098
+  },
+  {
+    _id: 'Moldova',
+    min_bmi: 19.688381123290277,
+    avg_bmi: 25.57295819429361,
+    max_bmi: 32.56715420989366
+  },
+  {
+    _id: 'Nepal',
+    min_bmi: 19.748973244733463,
+    avg_bmi: 26.43434938647296,
+    max_bmi: 31.07848971764862
+  },
+  {
+    _id: 'United Kingdom',
+    min_bmi: 19.427928671881645,
+    avg_bmi: 23.785736038980993,
+    max_bmi: 31.90315898243853
+  },
+  {
+    _id: 'Jordan',
+    min_bmi: 17.289044939043507,
+    avg_bmi: 26.26902443981696,
+    max_bmi: 32.353159768034715
+  },
+  {
+    _id: 'Maldives',
+    min_bmi: 23.654619429922963,
+    avg_bmi: 25.389870790829352,
+    max_bmi: 28.258302397598005
+  },
+  {
+    _id: 'Guinea-Bissau',
+    min_bmi: 23.285128184292063,
+    avg_bmi: 24.427204123390514,
+    max_bmi: 26.54403588086242
+  },
+  {
+    _id: 'Barbados',
+    min_bmi: 21.343242644513325,
+    avg_bmi: 21.343242644513325,
+    max_bmi: 21.343242644513325
+  },
+  {
+    _id: 'Wallis and Futuna',
+    min_bmi: 24.333907578214887,
+    avg_bmi: 26.382539258382778,
+    max_bmi: 28.431170938550668
+  },
+  {
+    _id: 'Democratic Republic of the Congo',
+    min_bmi: 18.275531401604773,
+    avg_bmi: 26.530271205495303,
+    max_bmi: 33.51540157186675
+  }
+]
+Type "it" for more

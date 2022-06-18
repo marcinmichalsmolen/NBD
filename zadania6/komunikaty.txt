@@ -1,0 +1,12 @@
+C:\Users\marci\anaconda3\python.exe C:/Users/marci/git/nbd/zadania6/nbd6_riak_python.py
+Adding new document...
+Added Document: {'name': 'Test Riak Python', 'value': 1, 'valueMultiplier': 10, 'updatedData': 20220618}
+
+Modyfing document...
+Updated Document: {'name': 'Test Riak Python', 'value': 2, 'valueMultiplier': 10, 'updatedData': 20220618}
+
+Deleting document...
+Deleted Document: None
+
+
+Process finished with exit code 0

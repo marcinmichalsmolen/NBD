@@ -1,0 +1,38 @@
+Current Mongosh Log ID:	62510c110f7c6da8352ab76e
+Connecting to:		mongodb://127.0.0.1:27017/nbd?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.3.1
+Using MongoDB:		5.0.6
+Using Mongosh:		1.3.1
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+------
+   The server generated these startup warnings when booting:
+   2022-04-09T06:13:09.519+02:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2022-04-09T06:13:10.631+02:00: Access control is not enabled for the database. Read and write access to data and configuration is unrestricted
+   2022-04-09T06:13:10.631+02:00: /sys/kernel/mm/transparent_hugepage/enabled is 'always'. We suggest setting it to 'never'
+------
+
+Loading file: zapytanie_2_A.js
+[
+  { _id: 'CZK', credit_left: 7957145.06 },
+  { _id: 'CVE', credit_left: 139615.53 },
+  { _id: 'COP', credit_left: 5932933.07 },
+  { _id: 'USD', credit_left: 12328460.71 },
+  { _id: 'GEL', credit_left: 471830.88 },
+  { _id: 'SSP', credit_left: 126769.59 },
+  { _id: 'KES', credit_left: 813087.48 },
+  { _id: 'UZS', credit_left: 995070.99 },
+  { _id: 'PLN', credit_left: 15318686.93 },
+  { _id: 'KGS', credit_left: 530483.37 },
+  { _id: 'STD', credit_left: 14563.079999999998 },
+  { _id: 'ARS', credit_left: 5848264.65 },
+  { _id: 'GTQ', credit_left: 1774495.79 },
+  { _id: 'ALL', credit_left: 1959062.3699999999 },
+  { _id: 'BYR', credit_left: 2066033.53 },
+  { _id: 'BRL', credit_left: 16896316.76 },
+  { _id: 'NGN', credit_left: 3865519.23 },
+  { _id: 'DJF', credit_left: 44202.81 },
+  { _id: 'JPY', credit_left: 7770669.07 },
+  { _id: 'LKR', credit_left: 675334.17 }
+]
+Type "it" for more

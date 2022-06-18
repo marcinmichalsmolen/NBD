@@ -1,0 +1,56 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt98w/IDRCiRKY+VYf1nqTt8WQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23429>; rel="up"
+Last-Modified: Sun, 12 Jun 2022 23:33:03 GMT
+ETag: "1pl7d12d1Iw9tWIVLkTKox"
+Date: Sun, 12 Jun 2022 23:33:03 GMT
+Content-Type: application/json
+Content-Length: 32
+
+{"a":"b","b":2,"c":3.0,"4":null}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt98uy4UIpTImMfK8Puz1B2+LAA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23429>; rel="up"
+Last-Modified: Sun, 12 Jun 2022 23:34:19 GMT
+ETag: "7mLD1FYrT87ZkPbqy6KrI0"
+Date: Sun, 12 Jun 2022 23:34:19 GMT
+Content-Type: application/json
+Content-Length: 29
+
+{"a":"c","b":0,"c":6.0,"4":1}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt98u4gfIpTImMfKwPZF6g5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23429>; rel="up"
+Last-Modified: Sun, 12 Jun 2022 23:34:30 GMT
+ETag: "2l16l6jzFYNEhZK7D25cC9"
+Date: Sun, 12 Jun 2022 23:34:30 GMT
+Content-Type: application/json
+Content-Length: 32
+
+{"a":"d","b":9,"c":1.0,"4":null}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt986/Y0iFAiYx4rg+AXqTt8WQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23429>; rel="up"
+Last-Modified: Sun, 12 Jun 2022 23:34:41 GMT
+ETag: "5YXcJcdVHpUIYgy1k0AzCL"
+Date: Sun, 12 Jun 2022 23:34:41 GMT
+Content-Type: application/json
+Content-Length: 34
+
+{"a":"e","b":123,"c":2.71,"4":"b"}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvt9868oviFAiYx4rg+QXqTt8WQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23429>; rel="up"
+Last-Modified: Sun, 12 Jun 2022 23:34:49 GMT
+ETag: "X0fmM6LZCngwgNBBx2g8e"
+Date: Sun, 12 Jun 2022 23:34:49 GMT
+Content-Type: application/json
+Content-Length: 35
+
+{"a":"f","b":213,"c":3.14,"4":null}

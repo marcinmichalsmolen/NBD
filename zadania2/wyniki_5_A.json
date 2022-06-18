@@ -1,0 +1,62 @@
+Current Mongosh Log ID:	62510ce29f9702630f6382a9
+Connecting to:		mongodb://127.0.0.1:27017/nbd?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.3.1
+Using MongoDB:		5.0.6
+Using Mongosh:		1.3.1
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+------
+   The server generated these startup warnings when booting:
+   2022-04-09T06:13:09.519+02:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2022-04-09T06:13:10.631+02:00: Access control is not enabled for the database. Read and write access to data and configuration is unrestricted
+   2022-04-09T06:13:10.631+02:00: /sys/kernel/mm/transparent_hugepage/enabled is 'always'. We suggest setting it to 'never'
+------
+
+Loading file: zapytanie_5_A.js
+[
+  { _id: 'ZMW', sum_credit: 16708.68, avg_credit: 5569.56 },
+  { _id: 'VUV', sum_credit: 19254.81, avg_credit: 6418.27 },
+  { _id: 'THB', sum_credit: 69065.88, avg_credit: 4604.392000000001 },
+  { _id: 'CNY', sum_credit: 1412101.14, avg_credit: 4954.740842105262 },
+  {
+    _id: 'KZT',
+    sum_credit: 11366.849999999999,
+    avg_credit: 3788.9499999999994
+  },
+  {
+    _id: 'CUP',
+    sum_credit: 45052.020000000004,
+    avg_credit: 5005.780000000001
+  },
+  { _id: 'SEK', sum_credit: 212520.57, avg_credit: 5060.013571428572 },
+  { _id: 'MGA', sum_credit: 43682.97, avg_credit: 4853.663333333334 },
+  { _id: 'MWK', sum_credit: 10723.26, avg_credit: 3574.42 },
+  { _id: 'XOF', sum_credit: 53646.15, avg_credit: 5960.683333333333 },
+  {
+    _id: 'PHP',
+    sum_credit: 355818.83999999997,
+    avg_credit: 4941.928333333333
+  },
+  { _id: 'NPR', sum_credit: 17376.78, avg_credit: 5792.259999999999 },
+  {
+    _id: 'HNL',
+    sum_credit: 49543.770000000004,
+    avg_credit: 5504.863333333334
+  },
+  {
+    _id: 'PEN',
+    sum_credit: 60517.229999999996,
+    avg_credit: 4655.171538461538
+  },
+  { _id: 'DOP', sum_credit: 62024.22, avg_credit: 5168.685 },
+  { _id: 'XAF', sum_credit: 42283.98, avg_credit: 4698.22 },
+  { _id: 'PKR', sum_credit: 56814, avg_credit: 4734.5 },
+  {
+    _id: 'HRK',
+    sum_credit: 73064.45999999999,
+    avg_credit: 4870.963999999999
+  },
+  { _id: 'ILS', sum_credit: 48886.47, avg_credit: 5431.83 },
+  { _id: 'KRW', sum_credit: 40139.46, avg_credit: 6689.91 }
+]
+Type "it" for more
